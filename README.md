@@ -2,9 +2,10 @@ Extkill3r is an exploit made by <a href="https://github.com/Exploit-Master12">Ex
 It works by loading many iframes into a small space in tiny windows rapidly that lags the extension. :)
 The name was inspired by <a href="https://github.com/Blobby-Boi/">Blobby Boi</a> 
 
-If you do not use it correctly,it will kill your computer instead of extension!!!!! ⚠️⚠️⚠️
+If you do not use it correctly,it will kill your computer instead of extension!!!!! ⚠️⚠️⚠️  (More coming soon)
 
 So,here it is:
 
 ```
+https://extkill3r.playcode.io/
 
